@@ -18,12 +18,12 @@ What do I gain by learning Statistical Optics?
 *   Insight into other random processes in Nature, e.g. random mechanical/structural vibrations, noise in electrical circuits, etc. Not surprisingly, the formulations and properties among these  diverse topics are essentially identical.
 *   Proficiency in cutting edge applications of Optics, primarily in imaging (but also in communications and computing). The traditional models of image formation (e.g., geometrically faithful and focus-conscious design of multi-element lens systems) are rapidly collapsing under the progress of optical science and fast, affordable digital processing. Statistical optics has led this revolution because it exploits the properties of Optical Fields in ways richer than either Geometrical or (deterministic) Wave Optics. Two examples of novel, unconventional imaging instruments are given below.
 
-![Very Large Array Radio Telescope.](/courses/mechanical-engineering/2-717j-optical-engineering-spring-2002/syllabus/vla_aerial.jpg)  
+{{< resource "47756ad9-3885-a351-55b8-e8e449e66798" >}}  
 Very Large Array (VLA) Radio Telescope. (Image courtesy of the [National Radio Astronomy Observatory](https://www2.gehealthcare.com/portal/site/usen/).)
 
 The VLA in Socorro, NM, utilizes 27 antennae with an overall aperture between 1.3km and 13km to observe very distant stars and galaxies. The mathematical foundation of the VLA's operation is the van Cittert-Zernicke theorem which allows us to associate the statistical autocorrelation between radio signals received at different antennae (pair-wise) with the structure of the remote radiowave sources.
 
-![Optical Coherence Tomography.](/courses/mechanical-engineering/2-717j-optical-engineering-spring-2002/syllabus/oct_basic.jpg)  
+{{< resource "19461402-5249-e28d-142c-5bd1bd34f0a3" >}}  
 Optical Coherence Tomography (OCT). (Image courtesy of [LightLab Imaging LLC](http://www.lightlabimaging.com/). Used with permission.)
 
 OCT is a non-invasive medical imaging technique which exploits the coherence properties of light to obtain depth information about tissue. It is based on "white light interferometry," a term which at first may sound like a contradiction (how can white light interfere?). When properly exploited, white light interference can provide excellent depth resolution (better than 1 micron) and decent lateral resolution (~10-30 microns, limited by the irregularities of the tissue).

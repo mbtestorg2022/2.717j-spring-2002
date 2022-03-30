@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 89870863-3262-5828-b671-4a940a03ec0e
 resourcetype: Image
 title: mr_ovation_b.jpg
 uid: 29669c20-1686-2d6f-6af2-666d2e14b896

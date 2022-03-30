@@ -21,6 +21,6 @@ What do I gain by learning about inverse problems?
 
 **Magnetic Resonance Imaging (MRI)** and **functional Magnetic Resonance Imaging (fMRI)** are two non-invasive imaging techniques that rely on data measured around a part of a subject's body (e.g. the head) to acquire information about what's going on inside the body part (e.g. the brain). The data are processed using a mathematical technique called **Filtered Backprojection**, which is a computationally efficient and stable way of computing the **Inverse Radon transform**. The MRI machine shown above is made by GE Medical Systems. An example of the kind of data that can be acquired via this technique is the image of a patient's brain shown below.
 
-![Image of a patient's brain.](/courses/mechanical-engineering/2-717j-optical-engineering-spring-2002/syllabus/mri_brain.jpg)
+{{< resource "373ddb81-994e-0c64-f2d7-0665853b4bd5" >}}
 
 Image of patient's brain acquired via 'Filtered Backprojection' technique. (Image courtesy of Prof. Christof Koch. Used with permission.)

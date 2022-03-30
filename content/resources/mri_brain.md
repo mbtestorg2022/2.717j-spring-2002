@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4f5a3438-c1f7-193d-270e-d72834dfdb69
 resourcetype: Image
 title: mri_brain.jpg
 uid: 373ddb81-994e-0c64-f2d7-0665853b4bd5
